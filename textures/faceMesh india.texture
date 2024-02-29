@@ -1,0 +1,36 @@
+{
+  "modelName": "texture",
+  "name": "faceMesh india",
+  "identifier": "texture:1658-cb929033-0514-415f-9c3f-aaeabfbf772e",
+  "alphaPremultiplicationMode": "should_premultiply",
+  "assetDataHash": "2b9ad56cb0c4a5f919abd672c4c1a6eb",
+  "assetLocator": "textures/faceMesh india.png",
+  "colorEncoding": "linear",
+  "compressionQuality": "high",
+  "coordMapping": "none",
+  "excludeDuringExport": false,
+  "excludeFromPackage": false,
+  "filter": "bilinear",
+  "hasOfflineMipmaps": false,
+  "height": 1024,
+  "importIssues": {},
+  "isExternalAsset": true,
+  "smartTextureTargetSizeLimit": "largest",
+  "targetSize": "largest",
+  "uWrapMode": "clamp",
+  "vWrapMode": "clamp",
+  "width": 1024,
+  "children": [
+    {
+      "modelName": "data_texture_metadata_model",
+      "name": "data_texture_metadata_model0",
+      "assetDataHash": "2b9ad56cb0c4a5f919abd672c4c1a6eb",
+      "colorCount": 6374,
+      "detectedAlphaChannel": "eight_bit_full_range",
+      "detectedOriginalFormat": "png",
+      "entropyOfDistribution": 0.6455843784381536,
+      "pixelsHigh": 1024,
+      "pixelsWide": 1024
+    }
+  ]
+}
